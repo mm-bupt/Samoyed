@@ -1,0 +1,4 @@
+Samoyed
+=======
+
+A simple game
